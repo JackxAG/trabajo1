@@ -16,10 +16,7 @@
                         alt="" width="100" class="rounded-full">
                 </div>
                 <div class="text-center font-extrabold text-lg">
-                    <h1 class="border-b-2 border-pink-900 text-pink-600 mb-3 py-3">MUJERES DOMINICANAS LIDERANDO LA
-                        TRANSFORMACION DE
-                        LA INDUSTRIA LOGISTICA, MARITIMA Y PORTUARIA
-                    </h1>
+
                     <h1 class="uppercase font-extrabold">Instituciones Invitadas</h1>
                 </div>
             </div>
